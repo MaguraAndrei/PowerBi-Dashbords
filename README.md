@@ -8,7 +8,6 @@ https://lookerstudio.google.com/reporting/e370ef78-ba48-4c63-9dee-817f5b94e6d7
 
 ### Supermarket Sales
 ![Supermarket Sales](https://github.com/MaguraAndrei/PowerBi-Dashbords/blob/main/Supermarket%20Sales/Supermarket%20Sales.PNG)
-https://github.com/MaguraAndrei/PowerBi-Dashbords/blob/ac7edf2e44fc15408696245f1cff69fa2cf87949/Supermarket%20Sales/Supermarket%20Sales.PNG
 
 ### PowerBI Raport Survey Data Professional Jobs
 ![Data Professional Survey Breakdown](https://github.com/MaguraAndrei/PowerBI/assets/160742208/be849a0d-0202-4aa9-91e7-1add3ae85726)
